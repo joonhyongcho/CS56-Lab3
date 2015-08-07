@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "O:/ENGS31/Lab3/Controller_for_counter.xst" -ofn "O:/ENGS31/Lab3/Controller_for_counter.syr" 

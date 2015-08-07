@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="O:/ENGS31/Lab3Redone/lab3_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="lab3_tb" />
+            <top_module name="numeric_std" />
+            <top_module name="std_logic_1164" />
+            <top_module name="vcomponents" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/lab3_tb/mclk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">mclk</obj_property>
+      <obj_property name="ObjectShortName">mclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3_tb/onoff" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">onoff</obj_property>
+      <obj_property name="ObjectShortName">onoff</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3_tb/hazard" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">hazard</obj_property>
+      <obj_property name="ObjectShortName">hazard</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3_tb/lr" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">lr</obj_property>
+      <obj_property name="ObjectShortName">lr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3_tb/lightl" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">lightl</obj_property>
+      <obj_property name="ObjectShortName">lightl</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3_tb/lightr" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">lightr</obj_property>
+      <obj_property name="ObjectShortName">lightr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3_tb/uut/ps" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">ps</obj_property>
+      <obj_property name="ObjectShortName">ps</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3_tb/uut/ns" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">ns</obj_property>
+      <obj_property name="ObjectShortName">ns</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3_tb/clk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3_tb/clk_per_2" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_per_2</obj_property>
+      <obj_property name="ObjectShortName">clk_per_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3_tb/clk_per_3" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_per_3</obj_property>
+      <obj_property name="ObjectShortName">clk_per_3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/lab3_tb/mclk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">mclk_period</obj_property>
+      <obj_property name="ObjectShortName">mclk_period</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,3 @@
+vhdl isim_temp "Brakes_incorporated.vhd"
+vhdl isim_temp "Brake_test.vhd"
+vhdl isim_temp "lab3_tb.vhd"

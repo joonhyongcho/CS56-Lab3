@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="Lab3.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Brakes.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Brakes.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="Brakes.xst"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Brakes_final.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Brakes_final.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Brakes_final.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="Brakes_final.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Brakes_final.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Brakes_final.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Brakes_final_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Brakes_final_summary.html"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Brakes_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Controller_for_counter.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Controller_for_counter.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Controller_for_counter.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="Controller_for_counter.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Controller_for_counter.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="Controller_for_counter.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Controller_for_counter.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Controller_for_counter.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Controller_for_counter_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Controller_for_counter_xst.xrpt"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Controller_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Controller_tb_stx_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="Counter_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Counter_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="DecadeCounter.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="DecadeCounter.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="DecadeCounter.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="DecadeCounter.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DecadeCounter.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="DecadeCounter.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="DecadeCounter.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="DecadeCounter.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="DecadeCounter_envsettings.html"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="DecadeCounter_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="DecadeCounter_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="DecadeCounter_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="brakes_final_tb_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="brakes_final_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="brakes_final_tb_isim_beh.wdb"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="brakes_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="lab3_tb_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="lab3_tb_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="lights.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="lights.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="lights.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="lights.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="lights.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="lights.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="lights.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="lights.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="lights_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="lights_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="lights_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="taillights.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="taillights.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="taillights.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="taillights.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="taillights.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="taillights.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="taillights.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="taillights.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="taillights_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="taillights_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="taillights_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="taillights_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1437681062" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1437681062">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1437681083" xil_pn:in_ck="8377195775171657264" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1437681083">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="Brake_test.vhd"/>
+      <outfile xil_pn:name="Brakes.vhd"/>
+      <outfile xil_pn:name="Brakes_final.vhd"/>
+      <outfile xil_pn:name="Brakes_incorporated.vhd"/>
+      <outfile xil_pn:name="Brakes_tb.vhd"/>
+      <outfile xil_pn:name="Controller_for_counter.vhd"/>
+      <outfile xil_pn:name="Controller_tb.vhd"/>
+      <outfile xil_pn:name="Counter_tb.vhd"/>
+      <outfile xil_pn:name="DecadeCoutner.vhd"/>
+      <outfile xil_pn:name="brakes_final_tb.vhd"/>
+      <outfile xil_pn:name="lab3_tb.vhd"/>
+      <outfile xil_pn:name="lights.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1437681062" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="280572992449604310" xil_pn:start_ts="1437681062">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1437681062" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="5077107980278130164" xil_pn:start_ts="1437681062">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1437681062" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="-7333042087218344236" xil_pn:start_ts="1437681062">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1437681084" xil_pn:in_ck="8377195775171657264" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1437681083">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="Brake_test.vhd"/>
+      <outfile xil_pn:name="Brakes.vhd"/>
+      <outfile xil_pn:name="Brakes_final.vhd"/>
+      <outfile xil_pn:name="Brakes_incorporated.vhd"/>
+      <outfile xil_pn:name="Brakes_tb.vhd"/>
+      <outfile xil_pn:name="Controller_for_counter.vhd"/>
+      <outfile xil_pn:name="Controller_tb.vhd"/>
+      <outfile xil_pn:name="Counter_tb.vhd"/>
+      <outfile xil_pn:name="DecadeCoutner.vhd"/>
+      <outfile xil_pn:name="brakes_final_tb.vhd"/>
+      <outfile xil_pn:name="lab3_tb.vhd"/>
+      <outfile xil_pn:name="lights.vhd"/>
+    </transform>
+    <transform xil_pn:end_ts="1437681091" xil_pn:in_ck="8377195775171657264" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-3173238971273716142" xil_pn:start_ts="1437681084">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="brakes_final_tb_beh.prj"/>
+      <outfile xil_pn:name="brakes_final_tb_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1437681092" xil_pn:in_ck="6495150541114186562" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="3129592133720879925" xil_pn:start_ts="1437681091">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="brakes_final_tb_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+    <transform xil_pn:end_ts="1437520466" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1437520466">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1437679625" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-6572259528485833716" xil_pn:start_ts="1437679625">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1437679625" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-7333042087218344236" xil_pn:start_ts="1437679625">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1437679625" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1437679625">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1437679625" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="1466953683607219054" xil_pn:start_ts="1437679625">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1437679625" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="3206529612922900429" xil_pn:start_ts="1437679625">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1437679625" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="3707973226616806302" xil_pn:start_ts="1437679625">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1437679632" xil_pn:in_ck="2793169135591163044" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="340649638192789521" xil_pn:start_ts="1437679625">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="Brakes_final.lso"/>
+      <outfile xil_pn:name="Brakes_final.prj"/>
+      <outfile xil_pn:name="Brakes_final.syr"/>
+      <outfile xil_pn:name="Brakes_final.xst"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>

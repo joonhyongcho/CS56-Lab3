@@ -1,0 +1,2 @@
+vhdl isim_temp "DecadeCoutner.vhd"
+vhdl isim_temp "Counter_tb.vhd"
